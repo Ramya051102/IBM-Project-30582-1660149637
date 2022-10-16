@@ -109,7 +109,7 @@ in the water quality.
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.gif" alt="🥹" width="32" height="32">
-</picture>	The Beneficial Users  :</h2></div>
+</picture>The Beneficial Users  :</h2></div>
 <ul>
 <li>  	Farmer </li>
 <li>  	Common People </li>
