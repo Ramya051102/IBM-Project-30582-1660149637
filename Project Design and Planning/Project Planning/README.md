@@ -40,7 +40,8 @@
 ![team gif](https://user-images.githubusercontent.com/113347192/201072730-7ba5400f-101a-4070-9d5c-7c8c83120f76.png)
 ![team giphy](https://user-images.githubusercontent.com/113347192/201072774-d20f4777-768b-43f5-9ffa-af94e3ab1eff.gif)
 
-  # SPRINT 1-2-3-4
+  # SPRINT 
+  ![1234](https://user-images.githubusercontent.com/113347192/201074792-6073b86f-b5a9-47b8-8330-ca01b248a6df.gif)
 
 
   
