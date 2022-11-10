@@ -13,6 +13,7 @@ DOMAIN: INTERNET OF THINGS
 
 ![des](https://user-images.githubusercontent.com/113347192/201022565-a87e01bf-f1df-479b-b023-1765e5b2c706.jpg) 
 
+     
      DATA FLOW
      CUSTOMER JOURNEY 
      FUNCTIONAL REQUIREMENT
