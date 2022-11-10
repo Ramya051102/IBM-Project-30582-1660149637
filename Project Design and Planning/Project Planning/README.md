@@ -4,18 +4,16 @@
 # PROJECT PLANNING DESIGN 
  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
+
   ![planning](https://user-images.githubusercontent.com/113347192/201057254-df39cca7-f9ed-4003-bb48-2c558888195e.gif)
+  
+  
+  
+  
+  
+  
+
+
   
   <div align="center">
   
@@ -37,6 +35,13 @@
   
   
   # SPRINT PLANNING
+  
+  
+![team gif](https://user-images.githubusercontent.com/113347192/201072730-7ba5400f-101a-4070-9d5c-7c8c83120f76.png)
+![team giphy](https://user-images.githubusercontent.com/113347192/201072774-d20f4777-768b-43f5-9ffa-af94e3ab1eff.gif)
+
+  # SPRINT 1-2-3-4
+
 
   
     
