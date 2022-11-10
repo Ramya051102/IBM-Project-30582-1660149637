@@ -1,7 +1,7 @@
 # REAL TIME RIVER WATER QUALITY MONITORINING AND CONTROL SYSTEM
-# TEAM ID: PNT2022TMID4617
-# DOMAIN: INTERNET OF THINGS
-"![IoT (1)](https://user-images.githubusercontent.com/113347192/201007338-f04a28be-21b1-4965-afd5-a40daea090cf.gif) 
+TEAM ID: PNT2022TMID4617
+
+DOMAIN: INTERNET OF THINGS
 
   
 
@@ -11,7 +11,10 @@
 
 
 
-# DESIGN PHASE
+ # DESIGN PHASE
+
+![des](https://user-images.githubusercontent.com/113347192/201022565-a87e01bf-f1df-479b-b023-1765e5b2c706.jpg) 
+
      DATA FLOW
      CUSTOMER JOURNEY 
      FUNCTIONAL REQUIREMENT
@@ -37,4 +40,6 @@
   
 # TECHNICAL ARCHITECTURE
 
+![tec](https://user-images.githubusercontent.com/113347192/201022533-3650d6bd-5127-4c3a-8346-eb6e2800dbe7.jpg)
 
+      It shows a overall planning and managing of a technology project
