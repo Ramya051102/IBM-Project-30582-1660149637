@@ -15,11 +15,15 @@
 
 
 # CUSTOMER JOURNEY 
-![download](https://user-images.githubusercontent.com/113347192/201008300-b7e9f16a-d1c6-4305-9068-5e982dc34f0f.jpg)
+   ![download](https://user-images.githubusercontent.com/113347192/201008300-b7e9f16a-d1c6-4305-9068-5e982dc34f0f.jpg)
 
-    A customer journey maptells a story of your customer experiences. 
+    A customer journey map tells a story of your customer experiences. 
  # DATAFLOW
  
+  ![ima](https://user-images.githubusercontent.com/113347192/201018562-2afee429-b3fe-4984-a158-0269b0ea427a.jpg)
+  
+     It shows a way of information flow through a system.
+
  
  
   
