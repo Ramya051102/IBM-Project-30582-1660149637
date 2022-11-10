@@ -13,8 +13,12 @@
 
 # DESIGN PHASE
 
-->Customer journey
-
+![download](https://user-images.githubusercontent.com/113347192/201008300-b7e9f16a-d1c6-4305-9068-5e982dc34f0f.jpg)
+# CUSTOMER JOURNEY 
+    A customer journey maptells a story of your customer experiences.
+    
+    
+    
 ->Data flow diagram
 
 ->Functional architecture
