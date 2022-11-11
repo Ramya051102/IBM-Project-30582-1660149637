@@ -1,4 +1,12 @@
-  # BUILDING A MOBILE APP <div align="center">
+<div align="center">
+    
+  
+  
+  
+  
+  
+  
+  # BUILDING A MOBILE APP 
     
 
 
