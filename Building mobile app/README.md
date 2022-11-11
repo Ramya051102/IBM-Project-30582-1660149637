@@ -1,4 +1,9 @@
+  # BUILDING A MOBILE APP <div align="center">
+    
 
+
+<div align="center">
+  
 <img src='https://miro.medium.com/max/720/1*V4cV-UpcOn5sJ3hB75vdvA.gif' width="400" height="400">
 
 <img src='https://www.greenwebmedia.com/mobile-application-uk/images/mobile-app-tab2.gif' width="800" height="600">
